@@ -1,11 +1,13 @@
-Name and Defenetion: 
+Name and Defenetion:
+
 MyPlanner Application.
+
 first of all, this application is for organizing yourself, planning your life, and scheduling your time 
 for getting more productive life, also setting your goals and your steps, the best part for this app is the remainders and motivational notifications 
 you get from the app, also you can have account and choose your interesting color...TODO list for your daily routine and daily goal.
 
 Details:
-1.
+1.Application Design file: https://www.figma.com/file/ZpxIZMB7FPa5uNABHbZcdW/myplaner?node-id=0%3A1
 2.creating account with phone numbber and password, verify your number, forget password, new password
 3.mysql database for storing and sortig and retrieve data, authentication.
 4.designing the screens:( SignUp/ Sign In, Home, AddPlanner, Planner, Profile...etc).

@@ -13,7 +13,8 @@ Details:
 here is some important screens:
 
 
-
-![MAINPAGE](https://user-images.githubusercontent.com/106477788/179390880-7c9ba95c-2aa4-47f8-a0ab-b5ab359283c5.PNG)
-![signin](https://user-images.githubusercontent.com/106477788/179390884-ede6d75c-2497-4499-851f-639c9e6c629d.PNG)
 ![onbourdingone](https://user-images.githubusercontent.com/106477788/179390887-7f1af59b-c388-4b48-87a1-3e6c6dddcbd5.PNG)
+![signin](https://user-images.githubusercontent.com/106477788/179390884-ede6d75c-2497-4499-851f-639c9e6c629d.PNG)
+![MAINPAGE](https://user-images.githubusercontent.com/106477788/179390880-7c9ba95c-2aa4-47f8-a0ab-b5ab359283c5.PNG)
+
+

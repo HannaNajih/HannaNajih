@@ -1,4 +1,4 @@
-### 👋 Hello, I'm [Your Name]
+### 👋 Hello, I'm Hana
 
 I'm a passionate developer with a diverse skill set and a love for creating innovative solutions. Here's a bit about me:
 
